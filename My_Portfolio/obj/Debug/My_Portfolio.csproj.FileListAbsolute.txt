@@ -4,3 +4,4 @@ E:\Documents\Kỳ 5_C#\My_Portfolio\My_Portfolio\bin\My_Portfolio.pdb
 E:\Documents\Kỳ 5_C#\My_Portfolio\My_Portfolio\obj\Debug\My_Portfolio.csproj.CoreCompileInputs.cache
 E:\Documents\Kỳ 5_C#\My_Portfolio\My_Portfolio\obj\Debug\My_Portfolio.dll
 E:\Documents\Kỳ 5_C#\My_Portfolio\My_Portfolio\obj\Debug\My_Portfolio.pdb
+E:\Documents\Kỳ 5_C#\My_Portfolio\My_Portfolio\obj\Debug\My_Portfolio.csprojAssemblyReference.cache
